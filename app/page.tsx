@@ -1,5 +1,5 @@
 "use client";
-import Live from "./components/Live";
+import Live from "../components/Live";
 // import "dotenv/config";
 export default function Page() {
   require("dotenv").config();
